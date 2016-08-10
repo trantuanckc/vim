@@ -146,7 +146,7 @@ set cursorline
 
 " My favorite color scheme, for now
 " colorscheme buikhanh
-colorscheme xoria256
+colorscheme peachpuff
 
 " set cursorcolumn
 
